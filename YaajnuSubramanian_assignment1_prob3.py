@@ -24,7 +24,7 @@ while b< x:
     a.remove(d[b])       # Removing the individual elements that are lesser than 1 
     b+=1
 print(a)
-
+print("Hey")
                   
 
 
