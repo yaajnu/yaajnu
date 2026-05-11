@@ -63,5 +63,5 @@ In love with coffee · Gym addict · Obsessed with live concerts
 ## 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaajnu-subramanian)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)]([https://yaajnu.github.io](https://yaajnu.github.io/yaajnu-portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://yaajnu.github.io/yaajnu-portfolio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yaajnusubramanian@gmail.com)
